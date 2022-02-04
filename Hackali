@@ -1,1 +1,64 @@
 
+  <!DOCTYPE HTML>
+   <html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html;    charset=utf-8">
+ <Style>
+.rainbow-animated {
+  background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: rainbow 2s ease infinite;
+  animation: rainbow 2s ease infinite;
+  font-size: 25px;
+  line-height: 25px;
+}
+ 
+@-webkit-keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+ 
+@keyframes rainbow {
+  0% { background-position: 0% 50% }
+  50% { background-position: 100% 50% }
+  100% { background-position: 0% 50% }
+}
+</style>
+ <style>
+   .gradient {
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to top, #fefcea, #f1da36);
+    padding: 10px;
+    border: 1px solid #333;
+   }
+  </style>
+
+    <big> <title> Резюме </title> 
+   </head>
+   <body>
+<a class="rainbow-animated" <h1> Резюме Кадыргулова Булата</h1> </a>
+    <! Кто читает, тот молодец !>
+   <p>Кто я ?</p>
+   <a class= gradient  <p>Я пепега<p></a>
+    <p>Что я могу ?</p>
+    <li> Я могу  кушац </ol>
+    <li> Стоять </li>
+    <li> Кушац </li>
+    <li> Смотреть ютуб </li>
+    <li> Кушац </li></big>
+    <p><a href="https://www.youtube.com/watch?v=2bXP5VNukmY" title="https://www.youtube.com/watch?v=2bXP5VNukmY" class="rainbow-animated"<p>ДоКОЗАтельства</a></p> 
+
+   <p><img src="https://pikuco.ru/upload/test_stable/f4e/f4e0a9d728825982b6cbcb08a2f9b6ae.webp" ></p>
+  <style>
+   body {
+    background: #c7b39b url(https://images.vector-images.com/clp1/270205/clp3728037.jpg); /* Цвет фона и путь к файлу */
+    color: DarkMagenta; /* Цвет текста */
+   }
+  </style>
+
+<div style="padding-top:79.402%;position:relative;"><iframe src="https://xakep.ru/wp-content/uploads/2015/06/geek-534947.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p>
+  </body>
+  </html>
